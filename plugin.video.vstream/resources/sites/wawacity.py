@@ -14,7 +14,7 @@ from resources.lib.util import cUtil
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0'
 
 SITE_IDENTIFIER = 'wawacity'
-SITE_NAME = '[COLOR violet]Wawacity[/COLOR]'
+SITE_NAME = '[COLOR yellow]Wawacity[/COLOR]'
 SITE_DESC = 'Fichier en DDL, HD'
 
 URL_MAIN = siteManager().getUrlMain(SITE_IDENTIFIER)
